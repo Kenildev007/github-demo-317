@@ -1,0 +1,25 @@
+.card-img{
+    position: relative;
+    width: 1400px;
+    height: 700px;
+
+}
+
+.btn{
+    border-radius: 25px;
+    padding: 8px 16px;
+    background-color: aquamarine;
+    font-weight: 500;
+    border: none;
+}
+.class-txt{
+    position: absolute;
+    color: rgb(77, 211, 223);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    top: 0;
+    padding: 410px 0px  0px 50px;
+    margin: none;   
+    
+
+}
